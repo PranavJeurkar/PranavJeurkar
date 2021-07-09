@@ -73,6 +73,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </a>
 
 <a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Pranav Email" width="140px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Pranav Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
