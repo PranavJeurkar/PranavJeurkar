@@ -8,14 +8,14 @@
 <br/>
 
 
-
-
-<br />
-
-<br/>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/pranavjeurkar/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavJeurkar&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=PranavJeurkar&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=PranavJeurkar&theme=chartreuse-dark"></p>
 
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled  JavaScript Developer 🚀 from India. Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : Flutter , React+Firebase .
 <br/>  
