@@ -1,7 +1,7 @@
 
 
-![code](https://user-images.githubusercontent.com/60751023/125091771-55b9a480-e0ee-11eb-9b50-294152421ff9.png)
 
+<img src=https://user-images.githubusercontent.com/60751023/125091771-55b9a480-e0ee-11eb-9b50-294152421ff9.png" width="100" height="100">
 
 ### Hi there 👋, I'm [Pranav](https://github.com/PranavJeurkar) 👨‍💻
 
