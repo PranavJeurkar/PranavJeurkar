@@ -7,17 +7,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pranav-jeurkar-77a134176/">
-  <img align="left" alt="Pranav's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<a href="https://twitter.com/pranav_jeurkar">
-  <img align="left" alt="Pranav Jeurkar | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Pranav Email" width="150px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 <br />
@@ -47,7 +37,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)<br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -71,4 +61,16 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<br>
+<a href="https://www.linkedin.com/in/pranav-jeurkar-77a134176/">
+  <img align="left" alt="Pranav's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/pranav_jeurkar">
+  <img align="left" alt="Pranav Jeurkar | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="mailto:aman.atg001@gmail.com">
+  <img align="left" alt="Pranav Email" width="140px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
