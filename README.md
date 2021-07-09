@@ -8,15 +8,15 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/pranav-jeurkar-77a134176/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/pranav_jeurkar">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Aman's Email" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
@@ -71,5 +71,4 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 
