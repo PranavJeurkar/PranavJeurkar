@@ -61,7 +61,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 <br>
+
 <a href="https://www.linkedin.com/in/pranav-jeurkar-77a134176/">
   <img align="left" alt="Pranav's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
