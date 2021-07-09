@@ -1,8 +1,7 @@
 
-
-
-<img src=https://user-images.githubusercontent.com/60751023/125091771-55b9a480-e0ee-11eb-9b50-294152421ff9.png" width="100" height="100">
-
+<p align="center">
+  <img src="https://github.com/PranavJeurkar/PranavJeurkar/blob/main/code.png" width="350" height="350">
+</p>
 ### Hi there 👋, I'm [Pranav](https://github.com/PranavJeurkar) 👨‍💻
 
 <br/>
