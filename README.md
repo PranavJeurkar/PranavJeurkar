@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/PranavJeurkar/PranavJeurkar/blob/main/code.png" width="350" height="350">
+  <img src="https://github.com/PranavJeurkar/PranavJeurkar/blob/main/code.png" width="500" height="500">
 </p>
 ### Hi there 👋, I'm [Pranav](https://github.com/PranavJeurkar) 👨‍💻
 
