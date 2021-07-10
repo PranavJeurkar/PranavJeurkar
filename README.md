@@ -54,7 +54,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
     
 </div>
 <hr>
@@ -67,7 +68,10 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   <img align="left" alt="Pranav Jeurkar | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="mailto:aman.atg001@gmail.com">
+<a href="mailto:pranavjeurkar@gmail.com">
   <img align="left" alt="Pranav Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/pranav21110/">
+  <img align="left" alt="Pranav's LeetCode" width="125px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
