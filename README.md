@@ -60,6 +60,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </div>
 <hr>
 
+<h2 align="center">You can connect with me here :</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/pranav-jeurkar-77a134176/">
     <img alt="Pranav's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -74,6 +75,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   </a>
 
   <a href="https://leetcode.com/pranav21110/">
-    <img  alt="Pranav's LeetCode" width="125px" height="100px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    <img  alt="Pranav's LeetCode" width="35px" height="100px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 <div>
