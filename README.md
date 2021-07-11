@@ -67,7 +67,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   </a>
 
   <a href="https://twitter.com/pranav_jeurkar">
-    <img alt="Pranav Jeurkar | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Pranav Jeurkar | Twitter" width="150px" height="40px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
   <a href="mailto:pranavjeurkar@gmail.com">
