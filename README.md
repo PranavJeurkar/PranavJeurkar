@@ -75,6 +75,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   </a>
 
   <a href="https://leetcode.com/pranav21110/">
-    <img  alt="Pranav's LeetCode" width="35px" height="100px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    <img  alt="Pranav's LeetCode" width="125px" height="35px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 <div>
