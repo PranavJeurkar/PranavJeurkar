@@ -62,18 +62,18 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pranav-jeurkar-77a134176/">
-    <img align="left" alt="Pranav's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Pranav's Linkedin" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://twitter.com/pranav_jeurkar">
-    <img align="left" alt="Pranav Jeurkar | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Pranav Jeurkar | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
   <a href="mailto:pranavjeurkar@gmail.com">
-    <img align="left" alt="Pranav Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Pranav Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://leetcode.com/pranav21110/">
-    <img align="left" alt="Pranav's LeetCode" width="125px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    <img  alt="Pranav's LeetCode" width="125px" height="100px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
- <div>
+<div>
