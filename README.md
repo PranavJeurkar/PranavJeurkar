@@ -71,6 +71,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   </a>
 
   <a href="mailto:pranavjeurkar@gmail.com">
-    <img alt="Pranav Email" width="125px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Pranav Email" width="125px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <div>
