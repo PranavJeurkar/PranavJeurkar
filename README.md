@@ -15,13 +15,15 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=PranavJeurkar&theme=chartreuse-dark"></p>
 
 <p>
-A Skilled  JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+I am interested in App and Web Dev.
 <br/>
-Stacks I have worked with : Flutter , React+Firebase .
+Stacks I have worked with : Flutter , React+Firebase .  
+<br/>
+I am always curious to build new projects by using new technologies .
 <br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+I am also interested in problem solving .
+<!-- <br/> -->
+
 </p>
 
   
@@ -38,10 +40,10 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <hr>
  <h2 align="center">Languages Known</h2>
  <div align="center">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="115px" height="30px"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="125px" height="30px"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="105px" height="30px"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="115px" height="30px"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="135px" height="30px"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="125px" height="30px"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="115px" height="30px"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="135px" height="30px"/>
   </div>
  </h2>
@@ -66,8 +68,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
     <img alt="Pranav's Linkedin" width="150px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://twitter.com/pranav_jeurkar">
-    <img alt="Pranav Jeurkar | Twitter" width="150px" height="40px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://leetcode.com/pranav21110/">
+    <img alt="Pranav Jeurkar | LeetCode" width="150px" height="40px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 
   <a href="mailto:pranavjeurkar@gmail.com">
