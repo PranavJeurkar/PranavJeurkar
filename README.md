@@ -14,28 +14,36 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=PranavJeurkar&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=PranavJeurkar&theme=chartreuse-dark"></p>
 
-<p>
-I am interested in App and Web Dev.
-<br/>
-Stacks I have worked with : Flutter , React+Firebase .  
-<br/>
-I am always curious to build new projects by using new technologies .
-<br/>  
-I am also interested in problem solving .
-<!-- <br/> -->
 
+### ✨ Quick Facts
+
+
+<p>
+- I’m currently in final year of my engineering.
+<br/>
+- I am interested in App and Web Dev.
+<br/>
+- Stacks I have worked with : Flutter , ReactJs+Firebase .  
+<br/>
+- I am always curious to build new projects by using new technologies .
+<br/>  
+- I am also interested in problem solving .
+<br/>
+- Hobbies other than coding : Playing games , hiking.
+<br/>
+- How to reach me: pranavjeurkar@gmail.com
 </p>
 
   
-### ✨ Quick Facts
+<!-- ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
+- 👨🏽‍💻 I’m currently in final year of my engineering.
+- 🌱 I’m currently learning ReactJS. -->
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+<!-- - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) -->
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: pranavjeurkar@gmail.com
+<!-- - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games. -->
+<!-- - 📫 How to reach me: pranavjeurkar@gmail.com -->
 
 <hr>
  <h2 align="center">Languages Known</h2>
