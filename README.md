@@ -31,7 +31,7 @@
 <br/>
 - Hobbies other than coding : Playing games , hiking.
 <br/>
-- How to reach me: pranavjeurkar@gmail.com
+- How to reach me : pranavjeurkar@gmail.com
 </p>
 
   
