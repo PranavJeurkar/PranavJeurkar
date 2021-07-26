@@ -23,7 +23,7 @@
 <br/>
 - I am interested in App and Web Dev.
 <br/>
-- Stacks I have worked with : Flutter , ReactJs+Firebase .  
+- Stacks I have worked with : Flutter , ReactJs , Firebase .  
 <br/>
 - I am always curious to build new projects by using new technologies .
 <br/>  
@@ -58,7 +58,7 @@
  <hr>
  <h2 align="center">Technologies I have worked with</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" width="135px" height="30px"/>
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" width="115px" height="30px"/>
     <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" width="135px" height="30px"/>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" width="135px" height="30px"/>  
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="135px" height="30px"/>
