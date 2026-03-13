@@ -19,9 +19,9 @@
 
 
 <p>
-- I’m currently in final year of my engineering.
+- I’m a Master’s student pursuing a Master of Information Technology with a specialization in Artificial Intelligence.
 <br/>
-- I am interested in App and Web Dev.
+- I am interested in App and Web Development.
 <br/>
 - Stacks I have worked with : Flutter , ReactJs , Firebase .  
 <br/>
@@ -31,7 +31,7 @@
 <br/>
 - Hobbies other than coding : Playing games , hiking.
 <br/>
-- How to reach me : pranavjeurkar@gmail.com
+- How to reach me : pranavvjeurkar21@gmail.com
 </p>
 
   
