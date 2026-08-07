@@ -76,11 +76,11 @@
     <img alt="Pranav's Linkedin" width="150px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/pranav21110/">
+  <a href="https://leetcode.com/">
     <img alt="Pranav Jeurkar | LeetCode" width="150px" height="40px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 
-  <a href="mailto:pranavjeurkar@gmail.com">
+  <a href="mailto:pranav21110@gmail.com">
     <img alt="Pranav Email" width="125px" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <div>
